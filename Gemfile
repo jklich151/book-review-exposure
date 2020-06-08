@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap'
 gem 'faraday'
 gem 'figaro'
+gem 'fast_jsonapi'
 
 group :development, :test do
   gem 'pry'
